@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Pokemon App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="splash">Splash Screen</string>
+    <string name="gallery">Gallery</string>
+    <string name="moves">Moves</string>
+    <string name="razor_wind">razor wind</string>
+    <string name="abilities">Abilities</string>
+    <string name="pokemon_characters">Pokemon Characters</string>
+    <string name="starting_position">Starting position</string>
+    <string name="to_what_position">To what position</string>
+    <string name="height">Height: </string>
+    <string name="weight">Weight:</string>
+    <string name="upload">Upload</string>
+    <string name="tap_to_select_image">Tap to Select Image</string>
+    <string name="quantity_to_load">Quantity to load</string>
+</resources>
